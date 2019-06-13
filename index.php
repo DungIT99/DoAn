@@ -340,6 +340,12 @@
 									<a href="shop-product-detail1.html">
 										<span class="bag bag-hot">Hot</span>
 									</a>
+
+
+
+
+
+									
 									<div class="product-thumb-info">
 										<div class="product-thumb-info-image">
 											<span class="product-thumb-info-act">

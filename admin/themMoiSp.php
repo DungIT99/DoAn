@@ -112,6 +112,7 @@
                 <label for="">image</label>
                 <input type="file" name="image" class="form-control">
             </div>
+            <div id="showImage"> </div>
             <div class="form-group">
                 <label for="">image khac</label>
                 <input type="file" name="else_image[]" class="form-control" multiple>

@@ -1,8 +1,5 @@
-<?php 
-include('header.php');
-?>
+<?php include("header.php");?>
         <?php
-      
         $conn = mysqli_connect("localhost", "root", "", "qlbh");
         mysqli_set_charset($conn, "utf8");
 
@@ -51,7 +48,7 @@ include('header.php');
 
 
                 <form action="" method="POST" role="form">
-                    <legend>them moi quan tri vien</legend>
+                    <legend>đăng ký</legend>
 
                     <div class="form-group">
                         <label for="">email</label>
